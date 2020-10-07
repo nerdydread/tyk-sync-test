@@ -1,0 +1,44 @@
+{
+  "_id": "5f7dc342ab18050001aed44b",
+  "id": "5f7dc342ab18050001aed44b",
+  "org_id": "5f7c6984ab18050001aed447",
+  "rate": 10000000,
+  "per": 60,
+  "throttle_interval": -1,
+  "throttle_retry_limit": -1,
+  "quota_max": -1,
+  "quota_renewal_rate": 3600,
+  "access_rights": {
+    "be7d0350e3cd48b44b0ac1e7d502fdc8": {
+      "api_name": "aairoot",
+      "api_id": "be7d0350e3cd48b44b0ac1e7d502fdc8",
+      "versions": [
+        "Default"
+      ],
+      "allowed_urls": []
+    },
+    "ee61f939aa49453a4abfb0363f4605a1": {
+      "api_name": "HttpBin",
+      "api_id": "ee61f939aa49453a4abfb0363f4605a1",
+      "versions": [
+        "Default"
+      ],
+      "allowed_urls": []
+    }
+  },
+  "hmac_enabled": false,
+  "active": true,
+  "name": "admin",
+  "is_inactive": false,
+  "date_created": "2020-07-07T14:10:24.377Z",
+  "tags": [],
+  "key_expires_in": 0,
+  "partitions": {
+    "quota": false,
+    "rate_limit": false,
+    "acl": false,
+    "per_api": false
+  },
+  "last_updated": "1602077619",
+  "meta_data": {}
+}

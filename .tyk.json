@@ -1,0 +1,18 @@
+{
+  "type": "apidef",
+  "files": [
+    {
+      "file": "api-be7d0350e3cd48b44b0ac1e7d502fdc8.json",
+      "oas": {}
+    },
+    {
+      "file": "api-ee61f939aa49453a4abfb0363f4605a1.json",
+      "oas": {}
+    }
+  ],
+  "policies": [
+    {
+      "file": "policy-5f7dc342ab18050001aed44b.json"
+    }
+  ]
+}
