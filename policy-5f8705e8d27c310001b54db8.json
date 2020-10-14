@@ -1,0 +1,36 @@
+{
+  "_id": "5f8705e8d27c310001b54db8",
+  "id": "5f8705e8d27c310001b54db8",
+  "org_id": "5f7f75a6c374790001a84020",
+  "rate": 1000,
+  "per": 60,
+  "throttle_interval": -1,
+  "throttle_retry_limit": -1,
+  "quota_max": -1,
+  "quota_renewal_rate": 3600,
+  "access_rights": {
+    "cf8c28276a3f4c9863851bf43a599b38": {
+      "api_name": "HttpBin (Group B)",
+      "api_id": "cf8c28276a3f4c9863851bf43a599b38",
+      "versions": [
+        "Default"
+      ],
+      "allowed_urls": []
+    }
+  },
+  "hmac_enabled": false,
+  "active": true,
+  "name": "Policy B",
+  "is_inactive": false,
+  "date_created": "2020-10-14T14:06:32.162Z",
+  "tags": [],
+  "key_expires_in": 0,
+  "partitions": {
+    "quota": false,
+    "rate_limit": false,
+    "acl": false,
+    "per_api": false
+  },
+  "last_updated": "1602684392",
+  "meta_data": {}
+}
