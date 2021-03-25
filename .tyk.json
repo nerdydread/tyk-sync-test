@@ -1,0 +1,107 @@
+{
+  "type": "apidef",
+  "files": [
+    {
+      "file": "api-b5d8914fa2204b53627ae40cb0010b6f.json",
+      "oas": {}
+    },
+    {
+      "file": "api-7fa7ac7a73c34988666d030a5460635e.json",
+      "oas": {}
+    },
+    {
+      "file": "api-d0f2c6a67b29457f575203fa951dc12c.json",
+      "oas": {}
+    },
+    {
+      "file": "api-b982cec084c44ef56aef1a090b346757.json",
+      "oas": {}
+    },
+    {
+      "file": "api-b742100081764ff06b00f75733145614.json",
+      "oas": {}
+    },
+    {
+      "file": "api-8ba9f26729e041a95f84f01dd0ce6d9b.json",
+      "oas": {}
+    },
+    {
+      "file": "api-05e25e6df8134c786757abb034e37e4d.json",
+      "oas": {}
+    },
+    {
+      "file": "api-cd36d353758c418955c98979c5faf6f2.json",
+      "oas": {}
+    },
+    {
+      "file": "api-85278a6e6be7475b45d25ba8078c89d9.json",
+      "oas": {}
+    },
+    {
+      "file": "api-bf42b28185b541934431f068b8bd616c.json",
+      "oas": {}
+    },
+    {
+      "file": "api-9e2cf89e3a4649425085062d3ef45382.json",
+      "oas": {}
+    },
+    {
+      "file": "api-5963f8fdedee405143f5858ea17de422.json",
+      "oas": {}
+    },
+    {
+      "file": "api-c7c3b826a9ec4c637ae716e00cecc010.json",
+      "oas": {}
+    },
+    {
+      "file": "api-42b615355eaf47ca617463503f43300b.json",
+      "oas": {}
+    },
+    {
+      "file": "api-c33b310e41f944ee590aa41012bdcc9d.json",
+      "oas": {}
+    },
+    {
+      "file": "api-47e6f94f988d4e0f51e262ffd15b2954.json",
+      "oas": {}
+    },
+    {
+      "file": "api-4692b70056154ccb41e44af0cdd990c3.json",
+      "oas": {}
+    },
+    {
+      "file": "api-727dad853a8a45f64ab981154d1ffdad.json",
+      "oas": {}
+    },
+    {
+      "file": "api-accbdd1b89e84ec97f4f16d4e3197d5c.json",
+      "oas": {}
+    }
+  ],
+  "policies": [
+    {
+      "file": "policy-5ea11155f4f8460001a9389e.json"
+    },
+    {
+      "file": "policy-5ea11172f4f8460001a9389f.json"
+    },
+    {
+      "file": "policy-5ea1118af4f8460001a938a0.json"
+    },
+    {
+      "file": "policy-5ead7120575961000181867e.json"
+    },
+    {
+      "file": "policy-5ead72955759610001818688.json"
+    },
+    {
+      "file": "policy-5ead73565759610001818689.json"
+    },
+    {
+      "file": "policy-5eb6349543f0440001373f5c.json"
+    },
+    {
+      "file": "policy-5f83cfd378ab040001d3d824.json"
+    }
+  ]
+}
